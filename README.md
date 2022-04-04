@@ -1,2 +1,3 @@
 # AniDB
-My simple database
+
+My simple database to understand database concepts
